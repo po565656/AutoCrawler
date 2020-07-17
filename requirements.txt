@@ -1,5 +1,1 @@
-certifi
-chardet
-idna
-requests
-selenium
+car
